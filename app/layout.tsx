@@ -11,8 +11,14 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Home - Nicholas Lin",
-  description: "[Your portfolio description]",
+  title: "Nicholas Lin",
+  description: "Cofounder & CEO of Guava | Building AI agents for healthcare prior authorization",
+  icons: {
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/icon.svg', type: 'image/svg+xml' },
+    ],
+  },
 };
 
 export default function RootLayout({
