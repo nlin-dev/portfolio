@@ -1,7 +1,5 @@
 # Nicholas Lin
 
-[Brief tagline or introduction about yourself]
-
 ## About Me
 
 I am the cofounder and CEO of Guava. We're building AI agents to fix broken prior authorization systems, one of the biggest cost and compliance bottlenecks in healthcare. Guava automates the entire prior authorization workflow without needing to access EHR, built specifically with the tight compliance and governance restrictions enterprise health systems need to have in mind.
