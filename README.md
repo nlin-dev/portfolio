@@ -12,7 +12,7 @@ Outside of work, I'm a competitive powerlifter and coach, artist, MMA fighter, a
 ## Contact me
 
 - **Email**: nick@guavamedical.ai
-- **LinkedIn**: [nicholxslin](https://linkedin.com/in/nicholxslin)
+- **LinkedIn**: [Nicholas Lin](https://linkedin.com/in/nicholxslin)
 - **GitHub**: [nlin-dev](https://github.com/nlin-dev)
 - **Twitter/X**: [@braregorn](https://twitter.com/braregorn)
 
